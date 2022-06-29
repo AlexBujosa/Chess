@@ -1,0 +1,2 @@
+C:\Users\david\source\repos\ChessGame2\Debug\ChessGame2.exe
+C:\Users\david\source\repos\ChessGame2\Debug\ChessGame2.pdb
